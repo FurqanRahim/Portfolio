@@ -53,6 +53,8 @@ const Navbar = () => {
               setIsOpen(!isOpen)
             }}>Education</MobileLink>
             <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github Profile</GitHubButton>
+          <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href="https://api.whatsapp.com/send/?phone=%2B923368071600&text&type=phone_number&app_absent=0" target="_blank">Get in touch</GitHubButton>
+          
           </MobileMenu>
         }
       </NavbarContainer>
