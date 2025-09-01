@@ -218,7 +218,7 @@ export const projects = [
     description:
       "Bitmize is a  secure, fast, and customizable URL shortener .   It not only shortens long URLs but also empowers users to  create custom links  with full authentication and dashboard support.  ",
     image:
-      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Bitmize.png",
+      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Bitmize.png?raw=true",
     tags: [
       "React Js",
       "Node Js",
