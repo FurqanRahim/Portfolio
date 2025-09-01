@@ -237,7 +237,7 @@ export const projects = [
     description:
       "Qmail is a Next.js application that allows users to write messages in advance and schedule them for future delivery. This is especially useful for busy weeks, where users can prepare messages in their free time and let Qmail handle delivery later.",
     image:
-      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Qmail.png",
+      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Qmail.png?raw=true",
     tags: ["Next Js", "Postgresql", "Prisma", "Redis", "Queue","Nodemailer"],
     category: "web app",
     github: "https://github.com/FurqanRahim/Qmail",
@@ -254,7 +254,7 @@ export const projects = [
     description:
       "A role-based academic portal with secure authentication, where HODs define courses and teachers input student grades. Students access their results through a centralized, real-time web interface.",
     image:
-      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Ghazi%20Result%20Portal.png",
+      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Ghazi%20Result%20Portal.png?raw=true",
     tags: [
       "React Js",
       "Tanstack Router",
