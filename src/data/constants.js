@@ -227,7 +227,7 @@ export const projects = [
       "JWT",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
+    github: "https://github.com/FurqanRahim/Bitmize",
     webapp: "https://trackify.duckdns.org",
   },
   {
@@ -240,7 +240,7 @@ export const projects = [
       "https://github.com/FurqanRahim/Portfolio/blob/main/public/Qmail.png",
     tags: ["Next Js", "Postgresql", "Prisma", "Redis", "Queue","Nodemailer"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
+    github: "https://github.com/FurqanRahim/Qmail",
     webapp: "https://podstream.netlify.app/",
     member: [
   
@@ -264,7 +264,7 @@ export const projects = [
       "JWT",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/FurqanRahim/Ghazi-Result-Portal",
     webapp: "https://vexa-app.netlify.app/",
   },
  
