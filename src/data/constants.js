@@ -218,7 +218,7 @@ export const projects = [
     description:
       "Bitmize is a  secure, fast, and customizable URL shortener .   It not only shortens long URLs but also empowers users to  create custom links  with full authentication and dashboard support.  ",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Bitmize.png",
     tags: [
       "React Js",
       "Node Js",
@@ -237,7 +237,7 @@ export const projects = [
     description:
       "Qmail is a Next.js application that allows users to write messages in advance and schedule them for future delivery. This is especially useful for busy weeks, where users can prepare messages in their free time and let Qmail handle delivery later.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Qmail.png",
     tags: ["Next Js", "Postgresql", "Prisma", "Redis", "Queue","Nodemailer"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
@@ -254,7 +254,7 @@ export const projects = [
     description:
       "A role-based academic portal with secure authentication, where HODs define courses and teachers input student grades. Students access their results through a centralized, real-time web interface.",
     image:
-      "../../public/Ghazi Result Portal.png",
+      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Ghazi%20Result%20Portal.png",
     tags: [
       "React Js",
       "Tanstack Router",
