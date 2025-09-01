@@ -212,8 +212,8 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
-    title: "Trackify",
+    id: 1,
+    title: "Bitmize",
     date: "Jun 2023 - Jul 2023",
     description:
       "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
@@ -237,14 +237,14 @@ export const projects = [
     webapp: "https://trackify.duckdns.org",
   },
   {
-    id: 0,
-    title: "Podstream",
+    id: 2,
+    title: "Qmail",
     date: "Apr 2023 - May 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Qmail is a Next.js application that allows users to write messages in advance and schedule them for future delivery. This is especially useful for busy weeks, where users can prepare messages in their free time and let Qmail handle delivery later.",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: ["Next Js", "Postgresql", "Prisma", "Redis", "Queue","Nodemailer"],
     category: "web app",
     github: "https://github.com/rishavchanda/Podstream",
     webapp: "https://podstream.netlify.app/",
@@ -254,20 +254,20 @@ export const projects = [
     ],
   },
   {
-    id: 1,
-    title: "Vexa",
+    id: 3,
+    title: "Ghazi Result Portal",
     date: "Oct 2022 - Present",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "A role-based academic portal with secure authentication, where HODs define courses and teachers input student grades. Students access their results through a centralized, real-time web interface.",
     image:
       "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
     tags: [
       "React Js",
-      "MongoDb",
+      "Tanstack Router",
       "Node Js",
       "Express Js",
-      "Redux",
-      "NodeMailer",
+      "MongoDb",
+      "JWT",
     ],
     category: "web app",
     github: "https://github.com/rishavchanda/Project-Management-App",
@@ -275,19 +275,7 @@ export const projects = [
   },
  
  
-  {
-    id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
-  },
+ 
   
  
  
