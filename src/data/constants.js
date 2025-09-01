@@ -204,7 +204,7 @@ export const education = [
     school: "Ghazi Institute of Science and Technology",
     date: "2021 - 2025",
     grade: "3.45 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and IT at Ghazi Institute of Science and Technology, . I have completed 7 semesters and have a CGPA of 3.43. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and IT at Ghazi Institute of Science and Technology, . I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BSIT, Computer Science and IT",
   },
 
