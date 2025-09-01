@@ -158,7 +158,7 @@ export const experiences = [
     role: "Fullstack Developer ",
     company: "SM Enterprises",
     date: "Nov 2024 - Present · 7 mos",
-    desc: "Working on various platforms, managing DevOps, and streamlining the process with automation.",
+    desc: "Working on various platforms, managing , and streamlining the process with automation.",
     skills: [
       "Docker",
       "JavaScript",
@@ -173,7 +173,7 @@ export const experiences = [
     role: "Mern Stack Developer",
     company: "SoftZone IT Solution",
     date: "Jul 2023 - Aug 2024 · 1 yr 2 mos",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+    desc: "Built an employee management full stack web app . I was the top performer in the program.",
     skills: [
       "HTML",
       "CSS",
