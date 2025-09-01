@@ -254,7 +254,7 @@ export const projects = [
     description:
       "A role-based academic portal with secure authentication, where HODs define courses and teachers input student grades. Students access their results through a centralized, real-time web interface.",
     image:
-      "https://ibb.co/7xNqmCGW",
+      "../../public/Ghazi Result Portal.png",
     tags: [
       "React Js",
       "Tanstack Router",
