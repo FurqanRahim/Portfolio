@@ -254,7 +254,7 @@ export const projects = [
     description:
       "A role-based academic portal with secure authentication, where HODs define courses and teachers input student grades. Students access their results through a centralized, real-time web interface.",
     image:
-      "https://drive.google.com/file/d/1krkJtM4DWBg8m9bybg18hIkj1hcLF0bL/view?usp=drive_link",
+      "https://ibb.co/7xNqmCGW",
     tags: [
       "React Js",
       "Tanstack Router",
