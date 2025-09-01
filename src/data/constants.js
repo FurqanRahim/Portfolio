@@ -213,42 +213,6 @@ export const education = [
 export const projects = [
   {
     id: 1,
-    title: "Bitmize",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "Bitmize is a  secure, fast, and customizable URL shortener .   It not only shortens long URLs but also empowers users to  create custom links  with full authentication and dashboard support.  ",
-    image:
-      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Bitmize.png?raw=true",
-    tags: [
-      "React Js",
-      "Node Js",
-      "Express Js",
-      "MongoDb",
-      "JWT",
-    ],
-    category: "web app",
-    github: "https://github.com/FurqanRahim/Bitmize",
-    webapp: "https://trackify.duckdns.org",
-  },
-  {
-    id: 2,
-    title: "Qmail",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Qmail is a Next.js application that allows users to write messages in advance and schedule them for future delivery. This is especially useful for busy weeks, where users can prepare messages in their free time and let Qmail handle delivery later.",
-    image:
-      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Qmail.png?raw=true",
-    tags: ["Next Js", "Postgresql", "Prisma", "Redis", "Queue","Nodemailer"],
-    category: "web app",
-    github: "https://github.com/FurqanRahim/Qmail",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-  
-     
-    ],
-  },
-  {
-    id: 3,
     title: "Ghazi Result Portal",
     date: "Oct 2022 - Present",
     description:
@@ -265,7 +229,44 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/FurqanRahim/Ghazi-Result-Portal",
-    webapp: "https://vexa-app.netlify.app/",
+    
+  },
+ 
+  {
+    id: 2,
+    title: "Qmail",
+    date: "Apr 2023 - May 2023",
+    description:
+      "Qmail is a Next.js application that allows users to write messages in advance and schedule them for future delivery. This is especially useful for busy weeks, where users can prepare messages in their free time and let Qmail handle delivery later.",
+    image:
+      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Qmail.png?raw=true",
+    tags: ["Next Js", "Postgresql", "Prisma", "Redis", "Queue","Nodemailer"],
+    category: "web app",
+    github: "https://github.com/FurqanRahim/Qmail",
+    
+    member: [
+  
+     
+    ],
+  },
+  {
+    id: 3,
+    title: "Bitmize",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "Bitmize is a  secure, fast, and customizable URL shortener .   It not only shortens long URLs but also empowers users to  create custom links  with full authentication and dashboard support.  ",
+    image:
+      "https://github.com/FurqanRahim/Portfolio/blob/main/public/Bitmize.png?raw=true",
+    tags: [
+      "React Js",
+      "Node Js",
+      "Express Js",
+      "MongoDb",
+      "JWT",
+    ],
+    category: "web app",
+    github: "https://github.com/FurqanRahim/Bitmize",
+ 
   },
  
  
